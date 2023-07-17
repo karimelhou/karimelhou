@@ -1,6 +1,9 @@
 # 💫 About Me:
 Master's Degree Student in Software Engineering<br><br>
-![](G1JO.gif)  <br>
+<div align="center">
+  <img src="G1JO.gif" alt="Profile Picture">
+</div>
+
 Hello there! Welcome to my GitHub profile. I am Karim ELHoumaini, a highly motivated and ambitious computer science enthusiast currently pursuing my Master's degree in Computer Systems and Mobiles at the Faculty of Science and Technology in Tangier, Morocco.
 
 

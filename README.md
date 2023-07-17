@@ -1,5 +1,10 @@
 # 💫 About Me:
 Master's Degree Student in Software Engineering<br><br>
+
+
+https://github.com/karimelhou/karimelhou/assets/47016104/93dcb9ef-2c1d-4a16-89c0-9d11fb753363
+<br>
+
 Hello there! Welcome to my GitHub profile. I am Karim ELHoumaini, a highly motivated and ambitious computer science enthusiast currently pursuing my Master's degree in Computer Systems and Mobiles at the Faculty of Science and Technology in Tangier, Morocco.
 
 
